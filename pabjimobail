@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Website Title</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 10px;
+            background-color: #f0f0f0;
+        }
+        main {
+            margin-top: 20px;
+        }
+        footer {
+            text-align: center;
+            padding: 10px;
+            background-color: #f0f0f0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Your Website Name</h1>
+    </header>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6oaga9IFM05eBYRbVBanKDFid_gh6RZXkzg&usqp=CAU" >
+    <main>
+        <p>Playy?</p>
+    </main>
+
+    <footer>
+        &copy; 2023 GAME. All rights reserved.
+    </footer>
+
+</body>
+</html>
